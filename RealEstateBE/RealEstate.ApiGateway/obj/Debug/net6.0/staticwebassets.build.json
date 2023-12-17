@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZxEaC00g0qeZroXnUeN75JxL7mByUH0Ea893KHxFmaM=",
+  "Source": "RealEstate.ApiGateway",
+  "BasePath": "_content/RealEstate.ApiGateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
